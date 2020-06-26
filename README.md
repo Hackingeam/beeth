@@ -4,9 +4,13 @@
 
 Herramienta de phishing con 40 plantillas.
 
-Caracteristicas:
+# Caracteristicas:
 
 [*] Clona cualquier pagina [*]
+
+[*] 40 plantillas [*]
+
+[*] Puedes seleccionar el idioma de la pagina(español/ingles) [*]
 
 [*] 3 tunnel ngrok/serveo/local.run [*]
 
@@ -20,7 +24,7 @@ Caracteristicas:
 
 [*] Colocar alert box [*]
 
-Instalación:
+# Instalación:
 
 $ pkg install git -y
 
@@ -30,7 +34,7 @@ $ cd beeth
 
 $ bash beeth.sh
 
-Uso:
+# Uso:
 
 beeth > help
 
